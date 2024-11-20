@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">randomFilm</string>
+    <array name="films">
+        <item>Поймай меня, если сможешь</item>
+        <item>Хроники Нарнии</item>
+        <item>Властелин Колец</item>
+        <item>Любовь и голуби</item>
+        <item>Майор Гром</item>
+        <item>Красотка</item>
+        <item>Железный человек</item>
+
+    </array>
+    <string name="first">Нажмите кнопку</string>
+    <string name="change_film">Случайный фильм</string>
+    <string name="renew_button">Сначала</string>
+    <string name="end">Вы просмотрели все фильмы</string>
+</resources>
